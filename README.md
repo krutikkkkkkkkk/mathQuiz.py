@@ -7,7 +7,7 @@ Game starts with `10 points`
 
 On every correct answer : `+5 points` and on every incorrect answer: `-5 points`
 
-### Quiz: 
+### Quiz: 50 Random Questions
 
 - [x] Addition
 - [x] Subtraction
