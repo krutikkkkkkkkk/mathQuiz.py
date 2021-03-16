@@ -4,13 +4,14 @@ import random
 print("You Have 10 Points")
 time.sleep(1.0)
 print(".................\n")
-time.sleep(1.0)
+time.sleep(2.0)
 print("Loading>>>>>>>>>>>>\n")
-time.sleep(1.0)
+time.sleep(3.0)
 print("Generating Questions\n")
+time.sleep(3.0)
+print("Get Ready.....\n")
 time.sleep(1.0)
 print ("Start")
-time.sleep(2.0)
 points = 10
 
 #1
