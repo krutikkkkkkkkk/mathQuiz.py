@@ -16,7 +16,7 @@ On every correct answer : `+5 points` and on every incorrect answer: `-5 points`
 
 ## Contributors
 
-[Reboot13](https://github.com/reboot13-git) and [A_RAT_EXPOLIT](https://github.com/a-rat-exploit)
+[Reboot13](https://github.com/reboot13-git) and [M3hank](https://github.com/m3hank)
 
 
 ### Reboot13
